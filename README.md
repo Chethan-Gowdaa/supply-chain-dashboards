@@ -1,0 +1,54 @@
+# 📦 Supply Chain Dashboard – Power BI & Excel
+
+This repository contains sample dashboards and reports related to supply chain operations, focusing on **inventory management**, **vendor tracking**, and **procurement analytics**.
+
+---
+
+## 🎯 Objective
+
+To visualize and streamline data-driven decision making for supply chain teams by building:
+- Inventory movement and stock level reports
+- Vendor performance dashboards
+- Purchase order summaries and forecasts
+
+---
+
+## 🛠 Tools Used
+
+- **Power BI**: For interactive dashboards and KPI monitoring
+- **Microsoft Excel**: For raw data collection, calculations, and mock datasets
+- **SAP ERP (referenced only)**: Used for actual workflow understanding
+
+---
+
+## 📊 Dashboards Included
+
+| Dashboard | Description |
+|----------|-------------|
+| 📁 Inventory Tracker | Tracks stock levels across multiple warehouses |
+| 📁 Vendor Performance | Monitors supplier delivery times, quality ratings |
+| 📁 Purchase Summary | Shows monthly procurement trends and order status |
+
+---
+
+## 🧪 Sample Screenshots
+
+📸 _(Add exported screenshots of your Power BI dashboards or mockups here)_
+
+---
+
+## 📁 Folder Structure
+
+
+---
+
+## ✍️ Notes
+
+These dashboards are inspired by my internship experience at **Wang Trade GmbH**, where I supported procurement coordination and built Power BI reports for internal teams.
+
+---
+
+## 📬 Contact
+
+📧 chethangowda3953@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/chethan-gowda-080717192/)
